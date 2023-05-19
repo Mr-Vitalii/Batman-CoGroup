@@ -123,14 +123,14 @@
         }
 
         &__image {
-            width: 60%;
-            height: 70%;
+            width: 500px;
+            height: 700px;
             background: url(/images/venom.png);
             background-repeat: no-repeat;
             background-size: contain;
             position: absolute;
-            top: 30%;
-            right: -12%;
+            top: 10%;
+            right: -7%;
         }
 
         &__block-text {
